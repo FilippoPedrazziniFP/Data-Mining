@@ -2,7 +2,7 @@
 The repository contains the project did for the Data Mining Course at @KTH (EIT Data Science Master Programme)
 
 ## Description
-The repo is divided into 5 folders. Each of the folder represents an assignment did for the course. All the different tasks are implemented using python.
+The repo is divided into 4 folders. Each of the folder represents an assignment did for the course. All the different tasks are implemented using python.
 
 ### Finding Similar Items
 It contains the code for finding similar documents using Min Hashing and LSH. Both of them are fast approximation to compute jaggard similarity.
@@ -15,3 +15,7 @@ It contains the code for estimating the number of triangles in a graph following
 
 ### Graph Spectra 
 It contains the code for computing the Spectral Clustering of a graph following the different steps given in this [paper](graph_spectra/clustering.pdf).
+
+#### General Usage
+
+	$ python3 main.py 
